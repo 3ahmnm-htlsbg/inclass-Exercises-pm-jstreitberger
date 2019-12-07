@@ -13,7 +13,7 @@ WebGL (RefRes: 1280x720 HD-720p)
 ### Third Party Material:
 Playmaker 1.9.0p9
 
-###Game control:
+### Game control:
 no control
 
 ### Lessons Learned
